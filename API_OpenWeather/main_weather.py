@@ -1,7 +1,7 @@
 import requests
 import pprint
 
-api_key = "b01bac24ceea6c048c6b4135ab2045d7"
+api_key = "xxx"
 
 parameters = {
     "q": "Vienna",
